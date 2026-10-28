@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lb_orange">#EE6C4D</color>     <!-- titles: "Games", "Magic: the Gathering" -->
+    <color name="lb_light_blue">#98C1D9</color> <!-- Back buttons, underline bar -->
+    <color name="lb_navy">#293241</color>       <!-- section headers, nav bar -->
+    <color name="lb_cyan">#E0FBFC</color>       <!-- nav icon backgrounds -->
+    <color name="lb_dark">#242424</color>       <!-- dark tiles, preset buttons -->
 </resources>
